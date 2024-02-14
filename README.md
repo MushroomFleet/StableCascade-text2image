@@ -7,6 +7,7 @@ Stable Cascade text2image Colab
 
 we used A100 to test, takes 15-20 minutes for the first inference, and then 14 seconds per batch of 4 after
 
+You can run txt2image, Image Variation and Image to Image with this notebook.
 
 
 
