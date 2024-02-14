@@ -9,7 +9,7 @@ we used A100 to test, takes 15-20 minutes for the first inference, and then 14 s
 
 You can run txt2image, Image Variation and Image to Image with this notebook.
 
-
+video: https://www.youtube.com/watch?v=u8wpqTVkjz0
 
 <h1 align="center">Hi 👋, I'm Drift Johnson</h1>
 <h3 align="center">Data Scientist & Diffusion Designer from England</h3>
