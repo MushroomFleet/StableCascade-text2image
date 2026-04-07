@@ -44,3 +44,11 @@ video: https://www.youtube.com/watch?v=u8wpqTVkjz0
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/driftjohnson"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="driftjohnson" /></a></p><br><br>
+
+## See Also
+
+- [DJZ-Workflows](https://github.com/MushroomFleet/DJZ-Workflows) — 1000+ ComfyUI workflows
+- [DJZ-Nodes](https://github.com/MushroomFleet/DJZ-Nodes) — Custom ComfyUI nodes
+- [ComfyUI-FLUX2-JSON](https://github.com/MushroomFleet/ComfyUI-FLUX2-JSON) — Flux 2 JSON nodes
+- [djz-Aesthetic-Embeddings](https://github.com/MushroomFleet/djz-Aesthetic-Embeddings) — Aesthetic embeddings
+- [svg-suite](https://github.com/MushroomFleet/svg-suite) — SVG generation toolkit
